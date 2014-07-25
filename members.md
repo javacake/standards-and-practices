@@ -215,6 +215,7 @@ Format:
 | Narek Babajanyan | [narekb](https://github.com/narekb) | Basic Python, interested in joint projects and practice. |
 | Nate Aune | [natea] (https://github.com/natea) | Intermediate Python and Django. Want to learn more Javascript such as Angular, Backbone. |
 | Nikolai A | [choppinrox] (https://github.com/choppinrox) | Computer Science student, I have experience in C++/C# python/django and have developed in Visual Studios and Unity3d |
+| Nick Luhar | [javacake](https://github.com/javacake) | JavaScript and C#, hoping to learn standards and practices for github |
 | Noriaki Oji | [noriakioji] (https://github.com/noriakioji) | I'm a Computer Science student with some basic knowledge of C++, Java, JavaScript, PHP, and Python. |
 | Norman King | [generalram] (https://github.com/generalram) ||
 | odajay | [odajay](https://github.com/odajay) | Python |
